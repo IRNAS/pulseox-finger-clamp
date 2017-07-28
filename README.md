@@ -1,2 +1,4 @@
 # pulseox-finger-clamp
-Finger clamp for pulse oximeter
+## Finger clamp for pulse oximeter
+
+#### Development
