@@ -4,12 +4,14 @@
 
 Designing hardware (3D printed finger clamp) for the pulse oximeter.
 
+Sometimes patients have to wear a pulse oximeter for an extended period of time so it should be comfortable, light and practical. It shouldn't be too big but still fit all the necessary electronics. It shouldn't press too much on the finger but shouldn't fall off on simple movement like scratching your nose either. We thought of a simple, single piece design that would be easily printable and could meet all the mentioned criteria.
+
 #### Development
 
 ##### V1 <a href="https://github.com/IRNAS/pulseox-finger-clamp/commit/a6cd33553bf7db89672edbb5de27fd4489f3829b#diff-84422747c9be27ca7f00f68ea243daba">(STL) (SOLIDWORKS)</a>
 
 * too big
-* two joints on a single part clamp didn't worked
+* two joints on a single part clamp didn't work
 * plastic too thick
 
 <span><img src="https://github.com/IRNAS/pulseox-finger-clamp/blob/master/pics/finger_clamp_v1(1).JPG" width="250px" height="187px">
