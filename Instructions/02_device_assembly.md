@@ -6,9 +6,8 @@
  - [Assembly Brief](#ASSEMBLY)
 
 ## 1 Overview and Toolset <a id="OVER"></a>
-Here you can find manufacturing and assembly details for a single Pulse Oximeter device. Download all the files for 3D printing from the build_files folder
+Here you can find manufacturing and assembly details for a single Pulse Oximeter device. Download all the files for 3D printing from this repository. 
 
-### 1.1 General
 - Manufacturing time:
   - 3D printing - 1h
   - soldering (1 unit by hand, depends on the skills) - 2h
