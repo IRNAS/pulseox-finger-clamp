@@ -1,4 +1,9 @@
 ## Pulseox Mechanics
+This repository contains STL files and assembly instructions.
+
+1. *Instructions* folder contains manufacturing and assembly instructions of finger clamp and device housing
+2. *finger-clip* folder contains STL files of the finger clip
+3. *housing* folder contains STL files of the device housing
 
 ## License
 
