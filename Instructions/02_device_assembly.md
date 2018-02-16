@@ -64,18 +64,18 @@ Collect the necessary parts and tools:
 - 2-5mL syringe
 - UV lamp
 
-1. 3D print both parts (probe_out.stl and probe_in.stl)
-2. use a little super glue to fixate the LED and sensor PCBs and cables inside the slots
-3. fill the nail UV gel into the syringe (try to sink the syringe deep enough to prevent the air to enter)
-4. carefully seal the PCB slots with UV gel, try avoiding air bubbles, be careful not to pu too much gel
-5. place both parts under the UV lamp for 5 min
-6. remove the two parts from the UV lamp and assemble them
-7. place the rubber band into each of the two outer slots on the finger clip
-8. use alcohol to clean the gel surface (it might feel sticky right after stiffening)
 
 
-| DESCRIPTION | STEP |
-|------|------|
+| | DESCRIPTION | STEP |
+|------|------|------|
+|1.| 3D print both parts (probe_out.stl and probe_in.stl) | |
+|2.| use a little super glue to fixate the LED and sensor PCBs and cables inside the slots | |
+|3.| fill the nail UV gel into the syringe (try to sink the syringe deep enough to prevent the air to enter) | |
+|4.| carefully seal the PCB slots with UV gel, try avoiding air bubbles, be careful not to pu too much gel | |
+|5.| place both parts under the UV lamp for 5 min | |
+|6.| remove the two parts from the UV lamp and assemble them | |
+|7.| place the rubber band into each of the two outer slots on the finger clip | |
+|8.| use alcohol to clean the gel surface (it might feel sticky right after stiffening) | |
 
 
 **Case**
