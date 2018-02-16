@@ -46,8 +46,6 @@ Case:
 ## 2 Part Manufacturing <a id="MANUFACTURING"></a>
 
 - 3D print all the parts
-
-  Print settings:
 - Cut/peel away the brim on the parts with a knife or similar
 - Hole widening: widen the holes and drill chamfers as marked on the scheme
 
