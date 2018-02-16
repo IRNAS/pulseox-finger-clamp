@@ -88,4 +88,4 @@ Turn on the pulse oximeter and check whether you can see any light through the n
 
 <img src="https://user-images.githubusercontent.com/14543226/31544384-d7fff5f6-b01a-11e7-8ba9-64b61a96d534.jpg" alt="step8b" width= "300" >
 
-CONGRATULATIONS! You've assembled your GliaX pulse oximeter. To test if your device works check out [this repository](https://github.com/IRNAS/pulseox-hardware/tree/v2.x/testing%20and%20debugging).
+CONGRATULATIONS! You've assembled your GliaX pulse oximeter. To test if your device works check out [this repository](https://github.com/IRNAS/pulseox-testing).
