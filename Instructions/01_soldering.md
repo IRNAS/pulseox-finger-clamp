@@ -1,5 +1,5 @@
 # Soldering
-Once the PCB soldering is complete, the UTP connector must be soldered on to the pins on the main PCB using short wires (the new version will have the UTP connector included on he PCB). For the wire use [IDC 6 wire](http://www.canadarobotix.com/image/cache/data/products/0/44-1-800x800.JPG) without connectors. On one side, crimp on a UTP connector (use middle 6 pins). Peel the wire insulation off on the other side so the wires are ready for soldering.
+Once the PCB soldering is complete, the UTP connector must be soldered on to the pins on the main PCB using short wires (the new version will have the UTP connector included on the PCB). For the wire use [IDC 6 wire](http://www.canadarobotix.com/image/cache/data/products/0/44-1-800x800.JPG) without connectors. On one side, crimp on a UTP connector (use middle 6 pins). Peel the wire insulation off on the other side so the wires are ready for soldering.
 
 <img src="https://user-images.githubusercontent.com/14543226/31539753-e1f527fe-b009-11e7-97cb-e2365d2a1097.png" alt="pinout" width= "400" ><img src="https://user-images.githubusercontent.com/14543226/31540465-05f9f574-b00c-11e7-8a98-1cd20487f0fd.PNG" alt="mainpcb" width="400" >
 
