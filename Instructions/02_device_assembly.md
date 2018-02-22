@@ -95,8 +95,7 @@ Collect the necessary parts: 3D printed parts, PCB, screws.
 Plug it the UTP cable from the finger clamp into the connector on the case to finish the assembly.
 <img src="https://user-images.githubusercontent.com/14543226/36526176-78409490-17ad-11e8-8e65-d317526282eb.jpg" alt="step8a" width= "300" >
 
-Turn on the pulse oximeter and check whether you can see any light through the narrow slip between the finger LED cover and the finger clip. If yes, tighten the screws until you can no longer see light passing through. Be aware not to tighten the screws too much - you can destroy threads in the plastic. Moreover, UTP wires must be handled with care since they are very prone to tearing.
+CONGRATULATIONS! You've assembled your GliaX pulse oximeter. To test if your device works check out [this repository](https://github.com/IRNAS/pulseox-testing).
 
 <img src="https://user-images.githubusercontent.com/14543226/36526112-2fa58bd2-17ad-11e8-8273-ff7f9babb142.jpg" alt="step8b" width= "300" >
 
-CONGRATULATIONS! You've assembled your GliaX pulse oximeter. To test if your device works check out [this repository](https://github.com/IRNAS/pulseox-testing).
